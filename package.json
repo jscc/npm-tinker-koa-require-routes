@@ -1,0 +1,28 @@
+{
+  "name": "@jscc/koa-require-routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@jscc/file-selector": "^1.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "mocha": "^8.0.1",
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "tinker",
+  "license": "ISC",
+  "email": "297278806@qq.com",
+  "files": [
+    "index.js"
+  ]
+}
