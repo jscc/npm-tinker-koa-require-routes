@@ -10,7 +10,7 @@
     "@jscc/file-selector": "^1.0.0"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mocha": "^8.0.1",
     "koa": "^2.13.0",
     "koa-router": "^9.1.0"
